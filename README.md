@@ -1,3 +1,21 @@
+Web-based image preview system with Classic Viewer and Multi-File Grid. Publicly available for viewing and demonstration only. Source code is proprietary and may not be copied, modified, reused, or redistributed without permission
+
+- image-preview
+- image-viewer
+- image-gallery
+- image-grid
+- vanilla-javascript
+- javascript
+- html
+- css
+- lazy-loading
+- frontend
+- web-app
+- proprietary-software
+- all-rights-reserved
+
+<details>
+    
 # 🖼️ Sistem Preview Gambar
 
 Aplikasi **web-based image preview** ringan untuk melihat banyak gambar secara cepat langsung dari browser tanpa perlu mengunggah file ke server.
@@ -297,4 +315,4 @@ https://github.com/mousesalt/sistem-preview-gambar
 
 Jika project ini bermanfaat, silakan berikan ⭐ **Star** pada repository.
 
-Terima kasih telah menggunakan **Sistem Preview Gambar**.
+Terima kasih telah menggunakan **Sistem Preview Gambar**.</details>
